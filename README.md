@@ -1,8 +1,6 @@
 # gene-locator
 
-This python script searches a DNA sequence for possible gene sequences.
-The program requires an the DNA sequence to be in a text file in either FASTA format or as a plain sequence.
-This text file is given as a user input after the program has been run.
+This python script searches a DNA sequence for possible gene sequences. The program requires the DNA sequence to be in a text file in either FASTA format or as a plain sequence. This text file is given as a user input after the program has been run.
 
 Gene Requirements:
 - Start codon (ATG)
